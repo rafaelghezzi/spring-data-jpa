@@ -48,7 +48,7 @@
 		<profile>
 			<id>eclipselink-next</id>
 			<properties>
-				<eclipselink>2.6.3-SNAPSHOT</eclipselink>
+				<eclipselink>2.6.5-SNAPSHOT</eclipselink>
 			</properties>
 			<repositories>
 				<repository>
